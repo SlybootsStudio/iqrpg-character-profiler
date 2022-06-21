@@ -8,16 +8,17 @@
 
 
 ## Home
+
 - Runes
--- rune belt (quantity)
--- Quality
+  - rune belt (quantity)
+  - Quality
 
 - Jewels
--- Quantity, Quality
+  - Quantity, Quality
 
 - Heroic
--- Heroic Upgrades
--- Battling Upgrades
+  - Heroic Upgrades
+  - Battling Upgrades
 
 - Gathering Tools
 
